@@ -26,5 +26,7 @@ manage and share the schedules that are added to the group.
 
 
 
-### Link
-- 
+### Demo
+- https://youtu.be/RfRROdizSJw
+<img width="1112" alt="Screenshot 2022-12-13 at 1 03 46 AM" src="https://user-images.githubusercontent.com/56868605/207093827-a2c98126-53d1-471b-8a9a-26c955daf7c7.png">
+<img width="1112" alt="Screenshot 2022-12-13 at 1 03 11 AM" src="https://user-images.githubusercontent.com/56868605/207093856-1d335f88-5f28-412e-a6c5-3cf6d8401d0e.png">
