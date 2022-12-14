@@ -3,7 +3,7 @@
 ### Demo
 - https://youtu.be/RfRROdizSJw
 
-[![그룹 캘린더 시연 영상](https://img.youtube.com/vi/RfRROdizSJw/maxresdefault.jpg)](https://youtu.be/RfRROdizSJw)
+[![그룹 캘린더 시연 영상](https://user-images.githubusercontent.com/56868605/207524878-2e1bdf49-e89c-425a-88b4-baf9c0c3e35d.png)](https://youtu.be/RfRROdizSJw)
 
 <br/>
 
