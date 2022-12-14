@@ -3,6 +3,8 @@
 ### Demo
 - https://youtu.be/RfRROdizSJw
 
+[![그룹 캘린더 시연 영상](https://img.youtube.com/vi/RfRROdizSJw/maxresdefault.jpg)](https://youtu.be/RfRROdizSJw)
+
 <br/>
 
 ### Project Objectives
