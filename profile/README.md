@@ -1,9 +1,14 @@
 # Group Calendar Application
+
+### Demo
+- https://youtu.be/RfRROdizSJw
+
+<br/>
 ### Project Objectives
 
 - This application system aim for makes it easy for all team members</br>
 manage and share the schedules that are added to the group.
-
+<br/>
 ### Members
 
 | Name | Role | Task |
@@ -11,7 +16,7 @@ manage and share the schedules that are added to the group.
 | 성열암 | Team leader | Set Database, UI/UX |
 | 김완택 | Team member | UI/UX |
 | 이범석 | Team member | UI/UX |
-
+<br/>
 ### **Datasbase**
 
 - MYSQL
@@ -23,10 +28,3 @@ manage and share the schedules that are added to the group.
 ![Screenshot 2022-12-12 at 12 20 07 AM](https://user-images.githubusercontent.com/56868605/206912197-f81f4a44-7237-45c7-a840-c50cf6d92e42.png)
 
 ![Screenshot 2022-12-12 at 12 20 25 AM](https://user-images.githubusercontent.com/56868605/206912216-20106f35-d20e-4631-b8df-64d8e6b6364c.png)
-
-
-
-### Demo
-- https://youtu.be/RfRROdizSJw
-<img width="1112" alt="Screenshot 2022-12-13 at 1 03 46 AM" src="https://user-images.githubusercontent.com/56868605/207093827-a2c98126-53d1-471b-8a9a-26c955daf7c7.png">
-<img width="1112" alt="Screenshot 2022-12-13 at 1 03 11 AM" src="https://user-images.githubusercontent.com/56868605/207093856-1d335f88-5f28-412e-a6c5-3cf6d8401d0e.png">
